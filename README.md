@@ -6,6 +6,7 @@
 [![Build Status for Documentation](https://github.com/linera-io/linera-protocol/actions/workflows/documentation.yml/badge.svg)](https://github.com/linera-io/linera-protocol/actions/workflows/documentation.yml)
 [![Twitter](https://img.shields.io/twitter/follow/linera_io)](https://x.com/linera_io)
 [![Discord](https://img.shields.io/discord/984941796272521226)](https://discord.com/invite/linera)
+git commit fix all bugs
 
 <!-- [![Build Status for Kubernetes](https://github.com/linera-io/linera-protocol/actions/workflows/kubernetes.yml/badge.svg)](https://github.com/linera-io/linera-protocol/actions/workflows/kubernetes.yml) -->
 
